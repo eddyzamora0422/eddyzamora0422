@@ -1,3 +1,3 @@
-<h1 align='center'>Hi there  👋, I'm Cristian</h1>
+<h1 align='center'>Hi there  👋, I'm Eddy Zamora    </h1>
 
-<p align='center'>👨‍💻 :casa: hi | 👨‍🚀 Platzi St</p>
+<p align='center'>Engineering Student | Ecotec University</p>
